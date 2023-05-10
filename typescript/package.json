@@ -1,4 +1,5 @@
 {
+  "name": "word_finder",
   "scripts": {
     "build": "tsc",
     "start": "npm run build && node build/wordFinder.js"
